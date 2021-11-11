@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\DS User\source\repos\CT imaging\Debug\UnitTests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="ReadParametersContour0.ReadParametersTest" Duration="1" />
+    <TestDuration Test="FindLineParameters.LineParameters" Duration="1" />
+    <TestDuration Test="IntersectionPoint.IntersectionPoint" Duration="1" />
+    <TestDuration Test="FindLineParameters.Line" Duration="1" />
+    <TestDuration Test="PointInPolygon.Polygon" Duration="0" />
+    <TestDuration Test="FindLineParameters.expectedTrue" Duration="1" />
+    <TestDuration Test="IntersectionPoint.expectedTrue" Duration="1" />
+    <TestDuration Test="PointInPolygon.expectedTrue" Duration="1" />
+    <TestDuration Test="PointInPolygon.expectedFalse" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
